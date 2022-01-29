@@ -1,3 +1,4 @@
-# That iron spoon that oxidized overnight
+## I'll take a TypeScript main course with Rust on the side please.
 
-**damn rust on my fine spoons. rust!**
+**A dump of Rust code I write instead of doing my job.**
+
